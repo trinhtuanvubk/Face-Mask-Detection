@@ -1,4 +1,4 @@
-# Face-Mask-Detection-
+# Face-Mask-Detection
 
 ## Introduction to Face Mask Detection
 Face mask detection has a range of applications from capturing the movement of the face to facial recognition which at first requires the face to be detected with very good precision. Face detection is more relevant today as it is not only used on images, but also in video applications like real-time surveillance and face detection in videos.
