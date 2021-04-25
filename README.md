@@ -7,3 +7,7 @@ Face mask detection has a range of applications from capturing the movement of t
 - Step 2: Process data to training.
 - Step 3: Training using model based Keras-Tensorflow.
 - Step 4: Testing the model with some examples and visualize results.
+## Dataset
+- Face Mask Detection Dataset from Kaggle 
+- Link : https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset/tasks?taskId=1123
+
