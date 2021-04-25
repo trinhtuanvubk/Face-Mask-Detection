@@ -1,0 +1,10 @@
+tensorflow
+keras
+opencv
+sklearn
+matplotlib
+pandas
+numpy
+seaborn
+json
+os
